@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Logs / outputs
+logs/
+*.log
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data: don't track raw files
+data/raw/
+
